@@ -1,4 +1,4 @@
-# Projet_JEE_Gestion_d-une_-cole
+# Projet_JEE_Gestion_d-une_-école
 
 ## Technologies Utilisées
 - **Java EE** (JSP, Servlets)
