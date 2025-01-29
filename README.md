@@ -1,5 +1,4 @@
 # Projet_JEE_Gestion_d-une_-cole
-# Projet JEE - Alternance 1
 
 ## Technologies Utilisées
 - **Java EE** (JSP, Servlets)
